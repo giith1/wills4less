@@ -57,7 +57,357 @@
     z-index: 0;
 }
 
-</style>
+#section0 h1 , #section0 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section0 h2 , #section0 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section0 h3, #section0 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section0 h4, #section0 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section0 h5 , #section0 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section0 h6 , #section0 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section0 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
+    #section1 h1 , #section1 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section1 h2 , #section1 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section1 h3, #section1 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section1 h4, #section1 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section1 h5 , #section1 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section1 h6 , #section1 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section1 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
+    #section2 h1 , #section2 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section2 h2 , #section2 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section2 h3, #section2 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section2 h4, #section2 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section2 h5 , #section2 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section2 h6 , #section2 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section2 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
+    #section3 h1 , #section3 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section3 h2 , #section3 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section3 h3, #section3 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section3 h4, #section3 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section3 h5 , #section3 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section3 h6 , #section3 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section3 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
+    #section4 h1 , #section4 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section4 h2 , #section4 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section4 h3, #section4 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section4 h4, #section4 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section4 h5 , #section4 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section4 h6 , #section4 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section4 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
+    #section5 h1 , #section5 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section5 h2 , #section5 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section5 h3, #section5 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section5 h4, #section5 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section5 h5 , #section5 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section5 h6 , #section5 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section5 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
+    #section6 h1 , #section6 h1 a{
+    font-size: 60px;
+    color:#000000;
+    font-family:Poppins;
+        font-style: normal;
+   
+} 
+#section6 h2 , #section6 h2 a{
+
+    font-size: 50px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section6 h3, #section6 h3 a{
+    font-size: 40px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section6 h4, #section6 h4 a{
+    font-size: 30px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}   
+#section6 h5 , #section6 h5 a{
+    font-size: 20px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section6 h6 , #section6 h6 a{
+    font-size: 18px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}    
+#section6 p{
+    font-size: 14px;
+    color:#000000;
+     font-family:Poppins;
+        font-style: normal;
+   
+}       
+    </style>
 </head>
 <body>
 
@@ -76,14 +426,14 @@
             font-family: Montserrat; 
             box-shadow: ;
             
-            padding-left:0px;
+            padding-left:20px;
             padding-right:0px;
              
         ">
             <div class="container" style="display: flex; align-items: center; justify-content: space-between; height: 100%;">
                 <div style="height:px; width:px;"><img src="image.php?name=wills4lesslogo.png&id=1100293940676b946d238724.16994005" alt="Logo" style="height:80px;width:250px"></div>
                 <div class="links ml-4" style="display: flex; flex: 1; justify-content: center; align-items: center;">
-                    <a href="" style="color: #000000; margin-right: 40px;">Home</a><a href=".html" style="color: #000000; margin-right: 40px;">About Us</a>
+                    <a href="" style="color: #000000; margin-right: 40px;">Home</a><a href=".html" style="color: #000000; margin-right: 40px;">About Us</a><a href=".html" style="color: #000000; margin-right: 40px;">Services</a>
                 </div>
             </div>
         </nav>
